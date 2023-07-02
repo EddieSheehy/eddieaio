@@ -13,9 +13,9 @@ python3 EddieAIO.py
 ```
 
 ## Early Example photo of CLI
-![Here](images/)
+![Here](images/IMG_8543.JPG)
 
 ## Videos of Script working in 2021.
 
-![Here](images/)
-![Here](images/)
+![Here](images/cm-chat-media-video-1CD63C4D-CA5F-48CE-8B8E-85BBB9612CB8.MOV)
+![Here](images/cm-chat-media-video-2D7DE6C5-ACC4-4DB7-BC73-DFDED5805790.MOV)
